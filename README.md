@@ -9,6 +9,13 @@
 Ему всё равно что ты там в query передашь, главное что бы было `server=123`. `server` - строковый параметр, ибо в число не влез, который обозначает какой сервер смотреть (...). На сервере должен быть включен виджет, иначе получишь ошибку `bad request.`. 
 <!-- даблточка -->
 
-Впринципе всё. `https://e6atb.zagadka-zhana-fresko.ru/discord.php?server=710418337934344223`
+В принципе всё. `https://e6atb.zagadka-zhana-fresko.ru/discord.php?server=710418337934344223`
 
 ![](https://e6atb.zagadka-zhana-fresko.ru/discord.php?server=710418337934344223 "Блять")
+
+Использование для гитхаба:
+
+```md
+<a href="https://discord.gg/invite/invite-code">![discord server](https://e6atb.zagadka-zhana-fresko.ru/discord.php?server=710418337934344223 "join pls")</a>
+```
+
